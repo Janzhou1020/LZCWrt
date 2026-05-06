@@ -5,6 +5,7 @@
 
 ## 常用链接
 
+- 环境准备：[docs/guides/lzcwrt-install.md](guides/lzcwrt-install.md)
 - 主教程：[`docs/guides/lzcwrt-on-lazycat.md`](docs/guides/lzcwrt-on-lazycat.md)
 - 文档索引：[`docs/README.md`](docs/README.md)
 
@@ -25,5 +26,8 @@
 ├── docs
 │   ├── README.md
 │   └── guides
+│       └── lzcwrt-install.md
 │       └── lzcwrt-on-lazycat.md
+├── lpk
+│   ├── cloud.lazycat.app.lzcwrt-v0.1.5.lpk
 ```
