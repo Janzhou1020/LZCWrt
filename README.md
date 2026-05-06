@@ -7,6 +7,7 @@
 
 - 环境准备：[`docs/guides/lzcwrt-install.md`](docs/guides/lzcwrt-install.md)
 - 主教程：[`docs/guides/lzcwrt-on-lazycat.md`](docs/guides/lzcwrt-on-lazycat.md)
+- 科学上网：[`docs/guides/lzcwrt-openclash.md`](docs/guides/lzcwrt-openclash.md)
 - 文档索引：[`docs/README.md`](docs/README.md)
 
 ## 适用场景
@@ -28,6 +29,7 @@
 │   └── guides
 │       └── lzcwrt-install.md
 │       └── lzcwrt-on-lazycat.md
+│       └── lzcwrt-openclash.md
 ├── lpk
 │   ├── cloud.lazycat.app.lzcwrt-v0.1.5.lpk
 ```
