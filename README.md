@@ -5,7 +5,7 @@
 
 ## 常用链接
 
-- 环境准备：[`docs/guides/lzcwrt-install.md`](guides/lzcwrt-install.md)
+- 环境准备：[`docs/guides/lzcwrt-install.md`](docs/guides/lzcwrt-install.md)
 - 主教程：[`docs/guides/lzcwrt-on-lazycat.md`](docs/guides/lzcwrt-on-lazycat.md)
 - 文档索引：[`docs/README.md`](docs/README.md)
 
@@ -16,7 +16,7 @@
 ## 快速开始
 
 1. 阅读完整教程：[`docs/guides/lzcwrt-on-lazycat.md`](docs/guides/lzcwrt-on-lazycat.md)
-1. 前置环境准备：[`docs/guides/lzcwrt-install.md`](guides/lzcwrt-install.md)
+1. 前置环境准备：[`docs/guides/lzcwrt-install.md`](docs/guides/lzcwrt-install.md)
 
 ## 目录结构
 
