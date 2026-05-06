@@ -6,7 +6,7 @@
 
 ## 前言
 
-本教程通过 LZCWrt 在微服中配置侧路由，需要提前在微服中安装好[LZCWrt](../lpk/cloud.lazycat.app.lzcwrt-v0.1.5.lpk)
+本教程通过 LZCWrt 在微服中配置侧路由，需要提前在微服中安装好LZCWrt。[点击下载 LZCWrt v0.1.5](https://github.com/Janzhou1020/LZCWrt/raw/main/lpk/cloud.lazycat.app.lzcwrt-v0.1.5.lpk)
 
 > 注意：微服如果使用有线网络的方式创建侧路由实例，后续访问侧路由实例时需要保证当前使用的是有限网络进行访问
 >

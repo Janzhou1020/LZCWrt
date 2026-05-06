@@ -15,6 +15,7 @@
 ## 快速开始
 
 1. 阅读完整教程：[`docs/guides/lzcwrt-on-lazycat.md`](docs/guides/lzcwrt-on-lazycat.md)
+1. 前置环境准备：
 
 ## 目录结构
 
