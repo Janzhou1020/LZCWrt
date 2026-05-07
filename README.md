@@ -31,5 +31,5 @@
 │       └── lzcwrt-on-lazycat.md
 │       └── lzcwrt-openclash.md
 ├── lpk
-│   ├── cloud.lazycat.app.lzcwrt-v0.1.5.lpk
+│   ├── cloud.lazycat.app.lzcwrt-v0.1.6.lpk
 ```
